@@ -1,4 +1,4 @@
-# Mordern Web Development
+# Modern Web Development
 
 ## Fundamentals
 1. [Technology behind modern webapps](/fundamental/tech-behind-modern-webapps.md)
