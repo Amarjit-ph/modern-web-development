@@ -7,7 +7,7 @@
 4. [Functional Programming](/fundamental/functional-programming.md)
 5. [D3 and Integration With React](/guides/d3-react-integration.md)
 6. [Object Oriented Programming](/fundamental/object-oriented-programming.md)
-7. [How to write testable code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf) - [web version](http://misko.hevery.com/code-reviewers-guide/)
+7. [How to write testable code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 8. [Two pillars of programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 
 ## Guides
