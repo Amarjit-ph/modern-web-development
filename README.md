@@ -16,7 +16,7 @@
 8. [Two pillars of programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 
 ## Guides
-
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [ES6 and Babel](/guides/es6-and-babel.md)
 * [Authentication Setup](/guides/auth-setup.md)
 * [React Notes](/guides/react-notes.md)
@@ -24,7 +24,6 @@
 * [Javascript coding best practice](/guides/coding-best-practice.md)
 * [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Wearhive's List Of Best Practices for JavaScript Projects](https://github.com/wearehive/project-guidelines#readme)
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Free javascript books](https://jsbooks.revolunet.com/)
 * [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Google's Style Guide for HTML and CSS](https://google.github.io/styleguide/htmlcssguide.html#ID_and_Class_Name_Delimiters)
