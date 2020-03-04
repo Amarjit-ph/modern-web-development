@@ -1,8 +1,10 @@
 # Modern Web Development
-## Techoologies
-1. Html
-2. Css
+
+## Techologies
+1. Hyper Text Markup Language
+2. Cascading Style Sheets
 3. Javascript
+
 ## Fundamentals
 1. [Technology behind modern webapps](/fundamental/tech-behind-modern-webapps.md)
 2. [Building an isomorphic webapps](/fundamental/isomorphic-webapp.md)
