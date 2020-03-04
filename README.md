@@ -1,6 +1,6 @@
 # Modern Web Development
 
-## Techologies
+## Technologies
 1. Hyper Text Markup Language
 2. Cascading Style Sheets
 3. Javascript
