@@ -1,7 +1,5 @@
 ![IMAGE](https://github.com/Amarjit-pheiroijam/Modern-Web-Development/blob/master/Modrenweb.png)
 
-# :warning: REPOSITORY-UNDER-CONSTRUCTION :heavy_exclamation_mark:
-
 ## 1. TECHNOLOGIES
 1. Hyper Text Markup Language
 2. Cascading Style Sheets
