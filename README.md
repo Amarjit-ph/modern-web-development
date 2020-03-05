@@ -33,7 +33,7 @@ Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javas
 ## 5. FRAMEWORK STACK
 1. [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
-## 6. LATEST INFORMATION STACK
+## 6. INFORMATION STACK
 * [Hacker Noon - Tech Media Site](https://hackernoon.com/)
 * [Stackshare 2017](https://stackshare.io/posts/top-developer-tools-2017)
 
