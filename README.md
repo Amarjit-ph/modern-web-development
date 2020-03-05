@@ -1,5 +1,10 @@
 ![IMAGE](https://github.com/Amarjit-pheiroijam/Modern-Web-Development/blob/master/web.png)
 
+<p align="center" style="font-size:20px;">
+Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript
+</p>
+<hr>
+
 ## 1. TECHNOLOGIES
 1. Hyper Text Markup Language
 2. Cascading Style Sheets
