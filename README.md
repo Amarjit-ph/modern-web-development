@@ -8,12 +8,14 @@
 ## 2. FUNDAMENTALS
 1. [Technology behind modern webapps](/fundamental/tech-behind-modern-webapps.md)
 2. [Building an isomorphic webapps](/fundamental/isomorphic-webapp.md)
-3. [Closure and Scope](/fundamental/scoping-and-closure-in-javascript.md)
+
 4. [Functional Programming](/fundamental/functional-programming.md)
 5. [D3 and Integration With React](/guides/d3-react-integration.md)
 6. [Object Oriented Programming](/fundamental/object-oriented-programming.md)
 7. [How to write testable code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 8. [Two pillars of programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+
+* [Javascript Closure and Scope](/fundamental/scoping-and-closure-in-javascript.md)
 
 ## 3. TOOLS 
 * [Git Tutorial](/guides/git-tutorial.md)
