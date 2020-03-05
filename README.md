@@ -19,11 +19,12 @@
 * [Git Tutorial](/guides/git-tutorial.md)
 
 ## 4. GUIDES
-1. [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
-2. [ES6 and Babel](/guides/es6-and-babel.md)
-3. [Node Authentication Setup](/guides/auth-setup.md)
-4. [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-5. [Projects Guide](https://github.com/wearehive/project-guidelines#readme)
+* [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
+* [Awesome List - All kinds of interesting topics](https://github.com/sindresorhus/awesome)
+* [ES6 and Babel](/guides/es6-and-babel.md)
+* [Node Authentication Setup](/guides/auth-setup.md)
+* [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Projects Guide](https://github.com/wearehive/project-guidelines#readme)
 
 * [Free javascript books](https://jsbooks.revolunet.com/)
 * [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
