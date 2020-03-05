@@ -2,8 +2,12 @@
 
 <p align="center" style="font-size:20px;">
 Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br><br>
-<img src="https://img.shields.io/github/issues-raw/kuttim/regg.svg">
+  
+<img src="https://badgen.net/badge/Tutorial/Markdowns/pink?icon=github">
 <img src="https://img.shields.io/github/license/kuttim/regg.svg">
+<img src="https://img.shields.io/github/issues-raw/kuttim/regg.svg">
+<img src="https://badgen.net/badge/Forks/0/pink?icon=github">
+  
 </p>
 <hr>
 
