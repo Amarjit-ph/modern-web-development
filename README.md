@@ -28,8 +28,6 @@
 * [Free javascript books](https://jsbooks.revolunet.com/)
 * [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-
-
 ## 5. FRAMEWORK STACK
 1. [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
