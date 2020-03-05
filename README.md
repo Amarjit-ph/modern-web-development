@@ -19,27 +19,22 @@
 * [Git Tutorial](/guides/git-tutorial.md)
 
 ## 4. GUIDES
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [ES6 and Babel](/guides/es6-and-babel.md)
-* [Authentication Setup](/guides/auth-setup.md)
-* [React Notes](/guides/react-notes.md)
+1. [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
+2. [ES6 and Babel](/guides/es6-and-babel.md)
+3. [Node Authentication Setup](/guides/auth-setup.md)
+4. [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+5. [Projects Guide](https://github.com/wearehive/project-guidelines#readme)
 
-* [Javascript coding best practice](/guides/coding-best-practice.md)
-* [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-* [Wearhive's List Of Best Practices for JavaScript Projects](https://github.com/wearehive/project-guidelines#readme)
 * [Free javascript books](https://jsbooks.revolunet.com/)
 * [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [Google's Style Guide for HTML and CSS](https://google.github.io/styleguide/htmlcssguide.html#ID_and_Class_Name_Delimiters)
-* [Case Study : How to create a good landing page with good SEO and UX](https://docs.google.com/document/d/1ihmYy7mwGY7SuRix774VcDoYpRbvgZdmM1lapbiuv6g/edit) for 
-* [TLDR Addy Osmani Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) 
+
 
 
 ## 5. FRAMEWORK STACK
-* [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
+1. [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
-## 6. LATEST STACK
+## 6. LATEST INFORMATION STACK
 * [Hacker Noon - Tech Media Site](https://hackernoon.com/)
 * [Stackshare 2017](https://stackshare.io/posts/top-developer-tools-2017)
 
-## 7. 
 
