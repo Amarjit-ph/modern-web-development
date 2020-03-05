@@ -17,7 +17,9 @@ Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javas
 5. [D3 and Integration With React](/guides/d3-react-integration.md)
 
 ## 3. TOOLS 
-* [Git Tutorial](/guides/git-tutorial.md)
+* [Github - Code hosting platform for version control and collaboration.](/guides/git-tutorial.md)
+* Npm - Package manager for the JavaScript
+* Yarn - Fast, reliable, and secure dependency management.
 
 ## 4. GUIDES
 1. [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
