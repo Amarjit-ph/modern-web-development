@@ -30,9 +30,12 @@
 * [Case Study : How to create a good landing page with good SEO and UX](https://docs.google.com/document/d/1ihmYy7mwGY7SuRix774VcDoYpRbvgZdmM1lapbiuv6g/edit) for 
 * [TLDR Addy Osmani Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) 
 
-## Keep up with Latest Stack
-* [Stackshare 2017 Post](https://stackshare.io/posts/top-developer-tools-2017)
-* [JavaScript 2017]()
-* [UI Framework for your react app](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651)
-* [react.sketch.app](http://airbnb.io/react-sketchapp/?ref=stackshare)
+
+## Framework Stack
+* [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
+
+## Latest Stack
+* [Hacker Noon - Tech Media Site](https://hackernoon.com/)
+* [Stackshare 2017](https://stackshare.io/posts/top-developer-tools-2017)
+
 
