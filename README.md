@@ -1,4 +1,4 @@
-![IMAGE](https://github.com/Amarjit-pheiroijam/Modern-Web-Development/blob/master/Modrenweb.png)
+![IMAGE](https://github.com/Amarjit-pheiroijam/Modern-Web-Development/blob/master/MODERN%20WEB%20DEVELOPMENT.png)
 
 ## 1. TECHNOLOGIES
 1. Hyper Text Markup Language
