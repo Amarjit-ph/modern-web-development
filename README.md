@@ -15,12 +15,15 @@
 7. [How to write testable code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 8. [Two pillars of programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 
-## 3. Guides
+## 3. Tools
+* [Git Tutorial](/guides/git-tutorial.md)
+
+## 4. Guides
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [ES6 and Babel](/guides/es6-and-babel.md)
 * [Authentication Setup](/guides/auth-setup.md)
 * [React Notes](/guides/react-notes.md)
-* [Git Tutorial](/guides/git-tutorial.md)
+
 * [Javascript coding best practice](/guides/coding-best-practice.md)
 * [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Wearhive's List Of Best Practices for JavaScript Projects](https://github.com/wearehive/project-guidelines#readme)
@@ -31,10 +34,10 @@
 * [TLDR Addy Osmani Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) 
 
 
-## 4. Framework Stack
+## 5. Framework Stack
 * [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
-## 5. Latest Stack
+## 6. Latest Stack
 * [Hacker Noon - Tech Media Site](https://hackernoon.com/)
 * [Stackshare 2017](https://stackshare.io/posts/top-developer-tools-2017)
 
