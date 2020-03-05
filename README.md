@@ -17,11 +17,11 @@
 ## 4. GUIDES
 1. [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
 2. [Awesome List - All kinds of interesting topics](https://github.com/sindresorhus/awesome)
-3. [ES6 and Babel](/guides/es6-and-babel.md)
-4. [Node Authentication Setup](/guides/auth-setup.md)
-5. [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-6. [Projects Guide](https://github.com/wearehive/project-guidelines#readme)
+3. [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+4. [Projects Guide](https://github.com/wearehive/project-guidelines#readme)
 
+* [ES6 and Babel](/guides/es6-and-babel.md)
+* [Node Authentication Setup](/guides/auth-setup.md)
 * [Free javascript books](https://jsbooks.revolunet.com/)
 * [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
 
