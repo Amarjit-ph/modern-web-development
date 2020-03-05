@@ -1,11 +1,11 @@
 # Modern Web Development
 
-## 1. Technologies
+## 1. TECHNOLOGIES
 1. Hyper Text Markup Language
 2. Cascading Style Sheets
 3. Javascript
 
-## 2. Fundamentals
+## 2. FUNDAMENTALS
 1. [Technology behind modern webapps](/fundamental/tech-behind-modern-webapps.md)
 2. [Building an isomorphic webapps](/fundamental/isomorphic-webapp.md)
 3. [Closure and Scope](/fundamental/scoping-and-closure-in-javascript.md)
@@ -15,10 +15,10 @@
 7. [How to write testable code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 8. [Two pillars of programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 
-## 3. Tools
+## 3. TOOLS 
 * [Git Tutorial](/guides/git-tutorial.md)
 
-## 4. Guides
+## 4. GUIDES
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [ES6 and Babel](/guides/es6-and-babel.md)
 * [Authentication Setup](/guides/auth-setup.md)
@@ -34,11 +34,12 @@
 * [TLDR Addy Osmani Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) 
 
 
-## 5. Framework Stack
+## 5. FRAMEWORK STACK
 * [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
-## 6. Latest Stack
+## 6. LATEST STACK
 * [Hacker Noon - Tech Media Site](https://hackernoon.com/)
 * [Stackshare 2017](https://stackshare.io/posts/top-developer-tools-2017)
 
+## 7. 
 
