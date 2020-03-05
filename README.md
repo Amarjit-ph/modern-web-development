@@ -1,7 +1,9 @@
 ![IMAGE](https://github.com/Amarjit-pheiroijam/Modern-Web-Development/blob/master/web.png)
 
 <p align="center" style="font-size:20px;">
-Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript
+Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br><br>
+<img src="https://img.shields.io/github/issues-raw/kuttim/regg.svg">
+<img src="https://img.shields.io/github/license/kuttim/regg.svg">
 </p>
 <hr>
 
