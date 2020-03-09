@@ -25,8 +25,8 @@ Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javas
 
 ## 3. TOOLS 
 * [Github - Code hosting platform for version control and collaboration.](/guides/git-tutorial.md)
-* Npm - Package manager for the JavaScript
-* Yarn - Fast, reliable, and secure dependency management.
+* [Npm - Package manager for the JavaScript](https://www.npmjs.com/)
+* [Yarn - Fast, reliable, and secure dependency management.](https://yarnpkg.com/)
 
 ## 4. GUIDES
 1. [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
