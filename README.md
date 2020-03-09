@@ -43,7 +43,7 @@ Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javas
 1. [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
 ## 6. INFORMATION STACK
+* [Stackshare](https://stackshare.io/)
 * [Hacker Noon - Tech Media Site](https://hackernoon.com/)
-* [Stackshare 2017](https://stackshare.io/posts/top-developer-tools-2017)
 
 
