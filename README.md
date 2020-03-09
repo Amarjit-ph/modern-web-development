@@ -32,7 +32,7 @@ Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javas
 1. [Developer Roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
 2. [Awesome List - All kinds of interesting topics](https://github.com/sindresorhus/awesome)
 3. [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-4. [Projects Guide](https://github.com/wearehive/project-guidelines#readme)
+4. [Projects Guidelines](https://github.com/wearehive/project-guidelines#readme)
 
 * [ES6 and Babel](/guides/es6-and-babel.md)
 * [Node Authentication Setup](/guides/auth-setup.md)
