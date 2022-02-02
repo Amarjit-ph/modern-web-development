@@ -5,7 +5,6 @@
 Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br><br>
 
 </h2></b>
-<hr>
 
 ## 1. TECHNOLOGIES
 1. Hyper Text Markup Language
