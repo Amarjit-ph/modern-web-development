@@ -3,12 +3,7 @@
 <b>
 <h2 align="center" style="font-size:20px;">
 Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br><br>
-  
-<img src="https://badgen.net/badge/Tutorial/Markdowns/pink?icon=github">
-<img src="https://img.shields.io/badge/Stars-4-red">
-<img src="https://img.shields.io/github/license/kuttim/regg.svg">
-<img src="https://badgen.net/badge/Forks/1/pink?icon=github">
-  
+
 </h2></b>
 <hr>
 
