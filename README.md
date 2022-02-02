@@ -1,10 +1,9 @@
 ![IMAGE](https://github.com/Amarjit-ph/Modern-Web-Development/blob/master/Cover.png)
 
 <b>
-<h2 align="center" style="font-size:20px;">
-Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br><br>
-
-</h2></b>
+  <div align="center" style="font-size:20px;">
+Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br>
+    </div>
 
 ## 1. TECHNOLOGIES
 1. Hyper Text Markup Language
