@@ -1,6 +1,5 @@
 ![IMAGE](https://github.com/Amarjit-ph/Modern-Web-Development/blob/master/Cover.png)
 
-<b>
   <div align="center" style="font-size:20px;">
 Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br>
     </div>
