@@ -4,12 +4,12 @@
 Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javascript <br>
     </div>
 
-## 1. TECHNOLOGIES
+## TECHNOLOGIES
 1. Hyper Text Markup Language
 2. Cascading Style Sheets
 3. Javascript
 
-## 2. FUNDAMENTALS
+## FUNDAMENTALS
 1. [Technology behind modern webapps](/fundamental/tech-behind-modern-webapps.md)
 2. [Building an isomorphic webapps](/fundamental/isomorphic-webapp.md)
 3. [Functional Programming](/fundamental/functional-programming.md)
