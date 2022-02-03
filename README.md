@@ -32,7 +32,7 @@ Tutorial , Code snippets, and Cheatsheets on Modern Web-Development<br>and Javas
 * [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ## FRAMEWORK STACK
-1. [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
+* [Rebass - React primitive UI components built with styled-system](https://rebassjs.org/)
 
 ## INFORMATION STACK
 * [Stackshare](https://stackshare.io/)
